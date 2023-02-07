@@ -1,3 +1,69 @@
-h1 {
-    color: red;
+html {
+    background-color: black;
+}
+
+#one {
+    color: white;
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+}
+
+.link {
+    font-size: 16px;
+    text-align: center;
+}
+
+a {
+    color: aquamarine
+}
+
+#two {
+    color: white;
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    text-align: center;
+}
+
+.title3 {
+    color: grey;
+    font-family: Verdana;
+    font-size: 21px; 
+    text-align: center;
+    
+}
+
+
+#three {
+    color: white;
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    text-align: center;
+}
+
+
+.title4 {
+    color: grey;
+    font-family: Verdana;
+    font-size: 21px; 
+    text-align: right;
+}
+
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.container3 {
+    text-align: center;
+    margin-top: 30px; 
+}
+
+.container4{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
